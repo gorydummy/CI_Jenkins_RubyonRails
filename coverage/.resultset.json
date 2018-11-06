@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/home/ec2-user/blog/app/controllers/string_ops.rb": [
+      "/home/dehua/Desktop/dirt/CI_Jenkins_RubyonRails/app/controllers/string_ops.rb": [
         1,
         1,
         1,
@@ -17,6 +17,6 @@
         null
       ]
     },
-    "timestamp": 1533560263
+    "timestamp": 1541504854
   }
 }

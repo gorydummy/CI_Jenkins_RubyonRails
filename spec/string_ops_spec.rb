@@ -1,4 +1,6 @@
 require 'spec_helper'
+# require './app/controllers/string_ops'
+
 context "mock response" do
   it "mocks the response from to_upper" do
     mocked_response = "This is a mocked to_upper response."
